@@ -89,3 +89,5 @@ All IP addresses are logged when connected. Log files can be found in the same f
 You can now use your RAT. Just follow the help message and go for it
 
 DM ME ANY QUESTIONS
+
+PUB
